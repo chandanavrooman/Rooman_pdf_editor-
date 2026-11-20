@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+uploads
+storage
+__pycache__
+.venv
+frontend/e2e/screenshots/
+scripts/.brew*
+backend/files/
+backend/tmp/
+*.db

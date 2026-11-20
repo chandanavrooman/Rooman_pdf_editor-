@@ -1,0 +1,22 @@
+# Text files are normalised by git; these must never be rewritten.
+* text=auto
+
+# shell scripts run on Linux (the Debian container): always LF
+*.sh text eol=lf
+*.py text eol=lf
+
+# binaries: never touch the bytes (a PDF or a font changed by line-ending conversion is corrupt)
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.ttf binary
+*.otf binary
+*.woff binary
+*.woff2 binary
+*.docx binary
+*.xlsx binary
+*.pptx binary
+*.zip binary

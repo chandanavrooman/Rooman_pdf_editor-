@@ -1,0 +1,2 @@
+# rooman-pdf-mcp shares the backend virtualenv and its pinned dependencies (mcp is pinned there).
+-r ../backend/requirements.txt

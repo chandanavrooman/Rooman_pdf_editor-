@@ -1,0 +1,3 @@
+Latin Modern Roman (lmroman10): GUST Font License (GFL, an LPPL-style free licence), (c) B. Jackowski and J. M. Nowacki (GUST e-foundry).
+It may be used, embedded and redistributed; modified versions must not use the reserved name. Here the outlines were converted
+from PostScript (CFF) to TrueType quadratic curves with fontTools; no glyph shape or metric was edited.

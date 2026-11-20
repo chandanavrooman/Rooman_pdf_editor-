@@ -1,0 +1,4 @@
+Plain text fixture
+R&D <team> & AT&T: 5 < 7 > 3
+Café crème, naïve façade, déjà vu
+Second paragraph line TXT02
